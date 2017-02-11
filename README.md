@@ -1,6 +1,5 @@
 
-# TVM
-## Ticket Vending Machine
+# TVM: Ticket Vending Machine
 An improvement suggested by students of M.Ss. High Integrity Systems, as part of the course "Human Machine Interface". A click dummy of the idea, prepared using **Balsamiq Mockup** is uploaded in pdf format.
 
 **Problem in discussion:** Purchasing train ticket when user is not aware of exact destination station-name, but is aware of the surrounding area or landmark.
